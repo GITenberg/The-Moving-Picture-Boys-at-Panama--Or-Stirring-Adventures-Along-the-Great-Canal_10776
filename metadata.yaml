@@ -1,5 +1,8 @@
 _repo: The-Moving-Picture-Boys-at-Panama--Or-Stirring-Adventures-Along-the-Great-Canal_10776
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Appleton, Victor
@@ -9,6 +12,8 @@ creator:
 description: Sent to Panama in the 1910s to film both the completion of the Canal
   and a predicted landslide, chums Joe Duncan and Blake Stewart uncover a plot to
   destroy the massive engineering project.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10776#The-Moving-Picture-Boys-at-Panama--Or-Stirring-Adventures-Along-the-Great-Canal
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
